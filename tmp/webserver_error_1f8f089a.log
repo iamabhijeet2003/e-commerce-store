@@ -1,0 +1,14 @@
+[Sun Feb 11 19:14:31.361576 2024] [core:warn] [pid 3876:tid 376] AH00117: Ignoring deprecated use of DefaultType in line 21 of C:/Users/abhij/Desktop/EcommerceStore/tmp/webserver.conf.
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::54a1:216f:9d5b:8095. Set the 'ServerName' directive globally to suppress this message
+[Sun Feb 11 19:14:31.867002 2024] [mpm_winnt:notice] [pid 3876:tid 376] AH00455: Apache/2.4.54 (Win64) PHP/7.4.30 configured -- resuming normal operations
+[Sun Feb 11 19:14:31.867002 2024] [mpm_winnt:notice] [pid 3876:tid 376] AH00456: Server built: Jul 26 2022 23:58:26
+[Sun Feb 11 19:14:31.867002 2024] [core:notice] [pid 3876:tid 376] AH00094: Command line: 'C:\\Program Files\\PHPRunner10.91\\EmbeddedServer64\\bin\\httpd.exe -d C:/Program Files/PHPRunner10.91/EmbeddedServer64 -d C:\\Program Files\\PHPRunner10.91\\EmbeddedServer64 -f C:\\Users\\abhij\\Desktop\\EcommerceStore\\tmp\\webserver.conf'
+[Sun Feb 11 19:14:31.870002 2024] [mpm_winnt:notice] [pid 3876:tid 376] AH00418: Parent: Created child process 32388
+[Sun Feb 11 19:14:32.058146 2024] [core:warn] [pid 32388:tid 400] AH00117: Ignoring deprecated use of DefaultType in line 21 of C:/Users/abhij/Desktop/EcommerceStore/tmp/webserver.conf.
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::54a1:216f:9d5b:8095. Set the 'ServerName' directive globally to suppress this message
+[Sun Feb 11 19:14:32.070145 2024] [core:warn] [pid 32388:tid 400] AH00117: Ignoring deprecated use of DefaultType in line 21 of C:/Users/abhij/Desktop/EcommerceStore/tmp/webserver.conf.
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::54a1:216f:9d5b:8095. Set the 'ServerName' directive globally to suppress this message
+[Sun Feb 11 19:14:32.089433 2024] [mpm_winnt:notice] [pid 32388:tid 400] AH00354: Child: Starting 64 worker threads.
+[Sun Feb 11 19:21:02.117500 2024] [mpm_winnt:notice] [pid 3876:tid 376] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sun Feb 11 19:21:04.126713 2024] [mpm_winnt:notice] [pid 32388:tid 400] AH00364: Child: All worker threads have exited.
+[Sun Feb 11 19:21:04.175311 2024] [mpm_winnt:notice] [pid 3876:tid 376] AH00430: Parent: Child process 32388 exited successfully.
